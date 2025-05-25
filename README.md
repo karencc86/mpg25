@@ -69,7 +69,7 @@ A partir de la exploración del dataset se crearon las siguientes visualizacione
 
 3.10 Matriz de correlación: factores que afectan el MPG
 
-## ANÁLISIS DE DATOS
+## 🤓💻 ANÁLISIS DE DATOS
 ● El análisis conjunto de estas visualizaciones permite observar patrones claros en la eficiencia de los vehículos. Se confirma que el consumo de combustible está fuertemente influenciado por factores como el peso, la cilindrada y la potencia del motor. Los autos con menor cantidad de cilindros tienden a ser más eficientes y tienen mejor aceleración.
 
 ● Los datos también muestran que los vehículos más livianos y con menor desplazamiento logran mejores rendimientos en MPG, especialmente aquellos de origen japonés y europeo. En contraste, los autos estadounidenses tienden a tener motores más grandes y potentes, lo que se traduce en un menor rendimiento en combustible.
@@ -77,7 +77,7 @@ A partir de la exploración del dataset se crearon las siguientes visualizacione
 ● Por otro lado, la relación entre potencia y desplazamiento indica que algunos modelos optimizan su eficiencia al ofrecer más caballos de fuerza sin aumentar drásticamente el tamaño del motor. 
 Esto sugiere que el diseño y la tecnología del motor juegan un papel crucial en la eficiencia energética.
 
-## RESULTADOS
+## 📊 RESULTADOS
 ● Existe una relación inversa entre caballos de fuerza y rendimiento de combustible.
 
 ● Los vehículos con mayor número de cilindros presentan menor eficiencia y aceleración más baja.
@@ -92,7 +92,7 @@ Esto sugiere que el diseño y la tecnología del motor juegan un papel crucial e
 
 ● Los modelos con alta relación potencia/desplazamiento logran un mejor aprovechamiento energético sin sacrificar rendimiento.
 
-## CONCLUSIONES Y RECOMENDACIONES
+## 🧐☝🏼️ CONCLUSIONES Y RECOMENDACIONES
 El análisis confirma que los motores más pequeños y livianos ofrecen una mejor eficiencia de combustible, mientras que los motores más grandes y potentes consumen más gasolina. Se recomienda considerar estos factores al diseñar estrategias para la optimización del consumo de combustible en la industria automotriz.
 Para futuros estudios, se sugiere:
 
