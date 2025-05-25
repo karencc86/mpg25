@@ -12,7 +12,7 @@ Durante el análisis, se incorporó contexto histórico relevante, como la crisi
 
 ## 🛠️ Herramientas
 
-- Python (Seaborn, Pandas, Matplotlib)
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy)
 - Google Colab
 
 ## 📈 Objetivo
