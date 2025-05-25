@@ -47,15 +47,15 @@ The analysis confirms that smaller and lighter engines offer better fuel efficie
 
 For future studies, it is suggested to:
 
-● Include additional variables such as aerodynamics and transmission technology for further analysis.
+❖ Include additional variables such as aerodynamics and transmission technology for further analysis.
 
-● Analyze the historical evolution of these trends to understand how efficiency standards have changed over time.
+❖ Analyze the historical evolution of these trends to understand how efficiency standards have changed over time.
 
-● Evaluate the impact of new technologies such as hybrid and electric motors compared to traditional models.
+❖ Evaluate the impact of new technologies such as hybrid and electric motors compared to traditional models.
 
-● Conduct a more detailed analysis by country to understand how regulations affect vehicle design.
+❖ Conduct a more detailed analysis by country to understand how regulations affect vehicle design.
 
-● These findings can be useful to manufacturers and consumers in making informed efficiency and performance decisions in the purchase and production of automobiles.
+❖These findings can be useful to manufacturers and consumers in making informed efficiency and performance decisions in the purchase and production of automobiles.
 
 
 
