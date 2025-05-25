@@ -1,20 +1,20 @@
 # mpg
 
-# 🚗 Análisis del Consumo de Combustible: Dataset MPG
+# 🚗 ANÁLISIS DEL CONSUMO DE COMBUSTIBLE: DATASET MPG
 
 Este proyecto explora el dataset `mpg` (millas por galón), incluido en la librería `seaborn` de Python. El análisis se enfoca en el consumo de combustible de automóviles fabricados entre 1970 y 1982, incluyendo variables como cilindrada, peso y potencia del motor.
 
-## 📚 Contexto
+## 📚 CONTEXTO
 
 El dataset proviene del *Auto MPG dataset*, originalmente recopilado por la U.S. Environmental Protection Agency (EPA), y forma parte del UCI Machine Learning Repository.
 
 Durante el análisis, se incorporó contexto histórico relevante, como la crisis del petróleo de 1973, que afectó directamente la industria automotriz global y generó una transición hacia vehículos más eficientes en consumo de combustible.
 
-## 🛠️ Herramientas
+## 🛠️ HERRAMIENTAS
 
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy)
 
-## 📈 Objetivos
+## 📈 OBJETIVOS
 
 Analizar la relación entre las variables del dataset y su impacto en el rendimiento de combustible (MPG).
 Identificar patrones y tendencias en la eficiencia de los vehículos según cilindrada, peso y caballos de fuerza.
