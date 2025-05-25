@@ -70,9 +70,11 @@ A partir de la exploración del dataset se crearon las siguientes visualizacione
 3.10 Matriz de correlación: factores que afectan el MPG
 
 ## ANÁLISIS DE DATOS
-El análisis conjunto de estas visualizaciones permite observar patrones claros en la eficiencia de los vehículos. Se confirma que el consumo de combustible está fuertemente influenciado por factores como el peso, la cilindrada y la potencia del motor. Los autos con menor cantidad de cilindros tienden a ser más eficientes y tienen mejor aceleración.
-Los datos también muestran que los vehículos más livianos y con menor desplazamiento logran mejores rendimientos en MPG, especialmente aquellos de origen japonés y europeo. En contraste, los autos estadounidenses tienden a tener motores más grandes y potentes, lo que se traduce en un menor rendimiento en combustible.
-Por otro lado, la relación entre potencia y desplazamiento indica que algunos modelos optimizan su eficiencia al ofrecer más caballos de fuerza sin aumentar drásticamente el tamaño del motor. 
+● El análisis conjunto de estas visualizaciones permite observar patrones claros en la eficiencia de los vehículos. Se confirma que el consumo de combustible está fuertemente influenciado por factores como el peso, la cilindrada y la potencia del motor. Los autos con menor cantidad de cilindros tienden a ser más eficientes y tienen mejor aceleración.
+
+● Los datos también muestran que los vehículos más livianos y con menor desplazamiento logran mejores rendimientos en MPG, especialmente aquellos de origen japonés y europeo. En contraste, los autos estadounidenses tienden a tener motores más grandes y potentes, lo que se traduce en un menor rendimiento en combustible.
+
+● Por otro lado, la relación entre potencia y desplazamiento indica que algunos modelos optimizan su eficiencia al ofrecer más caballos de fuerza sin aumentar drásticamente el tamaño del motor. 
 Esto sugiere que el diseño y la tecnología del motor juegan un papel crucial en la eficiencia energética.
 
 ## RESULTADOS
