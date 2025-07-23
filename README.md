@@ -1,4 +1,3 @@
-# mpg
 
 # 🚗 FUEL CONSUMPTION ANALYSIS: MPG DATASET
 
